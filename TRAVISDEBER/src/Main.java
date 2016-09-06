@@ -11,6 +11,7 @@ public class Main {
         System.out.println("INGENIERIA DE SOFTWARE");
         System.out.println("CIENCIA INFORMARTICA");
         System.out.println("FIN");
+         System.out.println("Suma de 2 Número");
         Scanner reader = new Scanner(System.in);
         int valor1= 0;
         int valor2= 0;
