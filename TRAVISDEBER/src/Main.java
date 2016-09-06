@@ -9,6 +9,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("HOLA MUNDO");
         System.out.println("INGENIERIA DE SOFTWARE");
+        System.out.println("CIENCIA INFORMARTICA");
         Scanner reader = new Scanner(System.in);
         int valor1= 0;
         int valor2= 0;
