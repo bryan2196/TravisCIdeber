@@ -10,6 +10,7 @@ public class Main {
         System.out.println("HOLA MUNDO");
         System.out.println("INGENIERIA DE SOFTWARE");
         System.out.println("CIENCIA INFORMARTICA");
+        System.out.println("FIN");
         Scanner reader = new Scanner(System.in);
         int valor1= 0;
         int valor2= 0;
