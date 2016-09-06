@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class Main {
     
     public static void main(String[] args) {
+        System.out.println("HOLA MUNDO");
         Scanner reader = new Scanner(System.in);
         int valor1= 0;
         int valor2= 0;
